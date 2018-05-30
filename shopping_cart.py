@@ -1,7 +1,6 @@
 # shopping_cart.py
 
 import datetime
-import os
 
 products = [
     {"id":1, "name": "Chocolate Sandwich Cookies", "department": "snacks", "aisle": "cookies cakes", "price": 3.50},
